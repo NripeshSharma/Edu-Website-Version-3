@@ -1,0 +1,55 @@
+// @import "_navbar";
+
+
+// .btn{
+//     @include btn
+//     }
+// #text_donate{
+//     @include text_donate
+// }
+
+// nav{
+//     @include nav;
+//     background-color : #13A699;
+// }
+
+// .navbar-nav{
+//     @include navbar-nav
+// }
+
+// .nav-link{
+//     @include nav-link
+// }
+
+// .dropdown-menu{
+//     @include dropdown-menu
+// }
+
+// .dropdown-item{
+//     @include dropdown-item
+// }
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+#vid{
+
+    // background-repeat: no-repeat;
+    border-radius: 3rem;
+    height: auto;
+}
+
+#content{
+    position: absolute;
+    top:-10px;
+}
+// .video_control{
+//     height: 50px;
+// }
+
+

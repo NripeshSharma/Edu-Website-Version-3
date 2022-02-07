@@ -1,0 +1,19 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+#vid {
+  border-radius: 3rem;
+  height: auto;
+}
+
+#content {
+  position: absolute;
+  top: -10px;
+}
+/*# sourceMappingURL=titanic.css.map */

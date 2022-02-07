@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AA+BA,AAAA,CAAC,CAAA;EACG,UAAU,EAAE,UAAU;CACzB;;AAED,AAAA,IAAI,CAAA;EACA,MAAM,EAAE,CAAC;CACZ;;AAED,AAAA,IAAI,CAAA;EAGA,aAAa,EAAE,IAAI;EACnB,MAAM,EAAE,IAAI;CACf;;AAED,AAAA,QAAQ,CAAA;EACJ,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAC,KAAK;CACZ",
+    "sources": [
+        "titanic.scss"
+    ],
+    "names": [],
+    "file": "titanic.css"
+}
